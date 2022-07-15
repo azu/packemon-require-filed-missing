@@ -1,0 +1,14 @@
+{
+  "name": "packemon-require-filed-missing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "@file-cache/core": "^1.0.0"
+  }
+}
