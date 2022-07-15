@@ -9,7 +9,7 @@ node:internal/modules/cjs/loader:488
       throw e;
       ^
 
-Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in /Users/azu/ghq/github.com/azu/packemon-require-filed-missing/node_modules/@file-cache/core/package.json
+Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in ~/packemon-require-filed-missing/node_modules/@file-cache/core/package.json
     at new NodeError (node:internal/errors:372:5)
     at throwExportsNotFound (node:internal/modules/esm/resolve:472:9)
     at packageExportsResolve (node:internal/modules/esm/resolve:693:7)
@@ -19,7 +19,7 @@ Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in /Users/azu/g
     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
     at Module.require (node:internal/modules/cjs/loader:1005:19)
     at require (node:internal/modules/cjs/helpers:102:18)
-    at Object.<anonymous> (/Users/azu/ghq/github.com/azu/packemon-require-filed-missing/index.js:1:1) {
+    at Object.<anonymous> (~/packemon-require-filed-missing/index.js:1:1) {
   code: 'ERR_PACKAGE_PATH_NOT_EXPORTED'
 }
 
